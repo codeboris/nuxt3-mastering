@@ -10,7 +10,11 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "@tailwindcss/typography": "^0.5.9",
     "@types/node": "^18.17.3",
+    "@vueuse/core": "^10.3.0",
+    "@vueuse/nuxt": "^10.3.0",
     "nuxt": "^3.6.5"
   }
 }
